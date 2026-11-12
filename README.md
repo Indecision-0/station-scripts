@@ -9,3 +9,4 @@ Scripts that run on the Prairie Sky Weather Network's server.
 Maintained by Diego Merino Vazquez
 
 Questions go to the coordinator
+
